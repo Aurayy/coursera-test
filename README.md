@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+THIS IS THE CHANGE I MADE TO THE README.MD FILE ON THIS BRANCH. 
+
 You can use the [editor on GitHub](https://github.com/Aurayy/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
